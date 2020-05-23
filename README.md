@@ -1,6 +1,6 @@
 # quake_app
 
-A new Flutter project.
+A new Flutter project in which a record of recent EarthQuakes is viewed in a listview. By tapping on the list the magnitude of the EarthQuake is displayed in form a alert dialog. A http call is made to the json api to get the earthquake information and only required information is displayed by parsing through the api.
 
 ## Getting Started
 
